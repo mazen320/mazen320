@@ -29,7 +29,7 @@ I'm Mazen, a passionate Unity programmer with a love for creating immersive and 
 
 - 🌟 **Unity Developer:** I specialize in developing games and applications using Unity, focusing on gameplay mechanics and performance optimization.
 - 💡 **Innovative Thinker:** Always eager to learn new technologies and implement creative solutions to challenging problems.
-- 🚀 **Project Enthusiast:** I love collaborating on exciting projects and contributing to open-source communities.
+- 🚀 **Project Enthusiast:** I love collaborating on exciting projects.
 
 ## Skills
 
