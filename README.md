@@ -19,11 +19,6 @@
 
 I'm Mazen, a passionate Unity programmer with a love for creating immersive and interactive experiences. Welcome to my GitHub profile!
 
-<p align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=mazen320&theme=radical&hide_border=true&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
-</p>
 
 ## About Me
 
