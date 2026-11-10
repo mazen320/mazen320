@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 224" width="960" height="224" role="img" aria-labelledby="title">
+  <title id="title">MAZ</title>
+  <path fill="#f0ede5" d="M0 0h960v224H0z"/>
+  <path fill="#171715" fill-rule="evenodd" d="M56 167V57h24l51 59 51-59h24v110h-30v-64l-45 52-45-52v64H56Zm163 0 53-110h28l55 110h-34l-9-21h-53l-9 21h-31Zm50-45h33l-17-38-16 38Zm95-65h118v25l-76 60h76v25H360v-25l76-60h-72V57Z"/>
+  <path fill="#d62f24" d="M501 143h24v24h-24z"/>
+  <path fill="none" stroke="#171715" stroke-opacity=".22" stroke-dasharray="2 5" d="M568 117h335M748 57v110m36-110v110m40-110v110m40-110v110"/>
+  <path fill="none" stroke="#d62f24" stroke-width="5" stroke-linecap="round" stroke-linejoin="round" d="M565 144c41 7 42-48 75-55 26-5 36 31 13 50-11 9-24-2-15-14 12-17 44-8 65-8h45V93h36v40h40v-16h40V93h32"/>
+  <circle cx="898" cy="93" r="5" fill="#d62f24"/>
+</svg>
