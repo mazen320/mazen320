@@ -1,7 +1,7 @@
-# Mazen Shaar
+![MAZ](assets/maz-wordmark.svg)
 
-I’m Maz, a software developer based in Dubai. I started in games and specialize in Unity and C#.
+## I build software you can play with.
 
-My work spans interactive software, AI applications for image and music generation, and web tools. At PurpleGlo, that often means making touchscreens, physical controls, and live displays work together.
+Unity and C# are my home base. My work spans games, interactive installations, web tools, and apps that generate images and music.
 
 [Portfolio](https://mazenshaar.com/) · [LinkedIn](https://www.linkedin.com/in/mazenshaar/)
